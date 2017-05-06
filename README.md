@@ -4,7 +4,6 @@ In this small land you will find treasure for :
 - Neofetch
 - Neovim
 - Zsh
-- Fonts
 
 # Screenshot
 ![alt tag](https://i.imgur.com/XI1dnfY.png)
