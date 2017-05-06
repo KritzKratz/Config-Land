@@ -1,2 +1,7 @@
 # Config-Land
-All my linux config files
+In this small land you will find treasure for :
+
+- Neofetch
+- Neovim
+- Zsh
+- Fonts
