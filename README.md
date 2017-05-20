@@ -6,3 +6,7 @@ In this small land you will find treasure for :
 
 # Screenshot
 
+![alt text](https://i.imgur.com/LY1QplR.png)
+
+![alt text](https://i.imgur.com/LY1QplR.png)
+
